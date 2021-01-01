@@ -1,11 +1,6 @@
 Change 1 – commit with message as “Change1 in File1”
 Change 2 – commit with message as “Change2 in File1”
-<<<<<<< Updated upstream
 Change 3 - Commit done on branch idea
 Change 4 - commit done on master branch for rebasing
-
-
-=======
 Change 3 - at bug123
->>>>>>> Stashed changes
 
